@@ -1,6 +1,6 @@
 # Lab 5: Issues Found in `music_catalog.py`
 
-Tools used: Pylint, Bandit, Flake8. The original reports are in `reports/before/`. The reports after the fixes are in the repo root (`pylint_report.txt`, `bandit_report.txt`, `flake8_report.txt`).
+Tools used: Pylint, Bandit and Flake8, each run before and after the fixes.
 
 | Result | Before | After |
 |--------|--------|-------|
